@@ -1,4 +1,4 @@
-# Sudoku
-Résolveur automatique de Sudoku en C++
+# Sudoku Solver
+Automatic Sudoku solver in C++
 05/2021
 Léo Trinquet
